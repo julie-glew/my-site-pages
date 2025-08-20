@@ -1,9 +1,6 @@
 {
   "name": "Quarto with Python",
-  "image": "ghcr.io/quarto-dev/quarto-full",
-  "features": {
-    "ghcr.io/devcontainers/features/python:1": {}
-  },
+  "image": "ghcr.io/quarto-dev/quarto-devcontainer:latest",
   "customizations": {
     "vscode": {
       "extensions": [
