@@ -1,6 +1,6 @@
 {
   "name": "Quarto with Python",
-  "image": "ghcr.io/quarto-dev/quarto-devcontainer:latest",
+  "image": "ghcr.io/mcanouil/quarto-codespaces:latest",
   "customizations": {
     "vscode": {
       "extensions": [
