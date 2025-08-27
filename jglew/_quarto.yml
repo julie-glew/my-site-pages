@@ -6,8 +6,18 @@ website:
   
 format:
   html:
+    page_layout: full
     theme:
       - minty
+
+navbar:
+  background: primary
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Technical Skills"
+      - text: "Soft Skills"
+      - text: "Interests"
 
 
 
